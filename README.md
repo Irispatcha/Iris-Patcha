@@ -7,4 +7,8 @@ I get to go play broadcast at rachadalai theartre too! It is so fun!:partying_fa
 ✨I love all the teachers and friends at Newton Sixth Form school, they are friendly and really nice!:kissing_heart:
  💖 [Iris Patcha](https://youtube.com/channel/UCpkfBbvr9_UaBzMg4S6DI0Q) = This is my youtube! Go follow!
  In my youtube, it's has all my contacts! 💓
- 
+- [x] Do Homework
+- [ ] Edit vids on Youtube
+- [x] Done with all assignment :tada:
+
+![n is an image](https://sv1.picz.in.th/images/2022/08/17/XvvtoE.th.jpg)
