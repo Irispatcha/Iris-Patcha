@@ -37,6 +37,13 @@ Put suncream.
 Put cream on my body.
 Booster on my face.
 Put cream on my pimples.
+I go get my purse.
+CHeck things that are missing.
+I go to the kitchen.
+Go get milk.
+I get straws.
+I drink.
+Done drinking.
 Get my bag.
 Put things on my bag
 Get my water bottle
