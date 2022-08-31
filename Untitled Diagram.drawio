@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T03:44:06.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" version="20.2.7" etag="h4wapSqXq-jgPARuQl5r" type="github"><diagram id="FpGOceZSERML2zMZ-uTV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-31T04:20:56.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="yriaed9yn95Mxt93pe8G" version="20.2.7" type="github">
+  <diagram id="FpGOceZSERML2zMZ-uTV" name="Page-1">
+    <mxGraphModel dx="1734" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFw56ZHBWYSOHul9QaYq-2" target="hFw56ZHBWYSOHul9QaYq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-2" value="Start of the DAY!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-1100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFw56ZHBWYSOHul9QaYq-3" target="hFw56ZHBWYSOHul9QaYq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-3" value="Wake up! &amp;nbsp;&amp;lt;3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-980" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFw56ZHBWYSOHul9QaYq-7" target="hFw56ZHBWYSOHul9QaYq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-7" value="Shower timeeee!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-870" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFw56ZHBWYSOHul9QaYq-14" target="hFw56ZHBWYSOHul9QaYq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-14" value="Pack my bags." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFw56ZHBWYSOHul9QaYq-16" target="hFw56ZHBWYSOHul9QaYq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-16" value="If raining, bring jacket." style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFw56ZHBWYSOHul9QaYq-18" target="hFw56ZHBWYSOHul9QaYq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFw56ZHBWYSOHul9QaYq-18" target="hFw56ZHBWYSOHul9QaYq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-18" value="Get in my car." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFw56ZHBWYSOHul9QaYq-22" target="hFw56ZHBWYSOHul9QaYq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-22" value="Reach school.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-24" value="Go in classroom" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hFw56ZHBWYSOHul9QaYq-26" value="Eat and drink water." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
