@@ -1,0 +1,16 @@
+SEND "Please enter your weight" TO DISPLAY
+RECEIVE Weight from keyboard
+SEND "Please enter your height" TO DISPLAY
+RECEIVE height from keyboard
+SET BMI=weight/height^2
+IF BMI <18.5 THEN 
+SEND Underweight TO DISPLAY
+ELSE
+IF BMI <=24.9 THEN
+SEND Normalweight TO DISPLAY
+ELSE
+IF BMI >=25 THEN
+SEND Overweight TO DISPLAY
+END IF
+END IF
+END IF
